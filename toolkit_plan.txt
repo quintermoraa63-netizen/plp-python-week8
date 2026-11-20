@@ -1,0 +1,61 @@
+PERSONAL MINI-TOOLKIT PLAN
+
+PROJECT: Personal Mini-Toolkit
+
+TOOL 1: SIMPLE CALCULATOR
+Description:
+A calculator that allows users to add, subtract, multiply and divide two numbers.
+
+Concepts:
+- Variables
+- Input and output
+- Conditionals
+- F-strings
+
+TOOL 2: NUMBER GUESSING GAME
+Description:
+A game where users try to guess a randomly generated number between 1 and 10 within five attempts.
+
+Concepts:
+- Variables
+- While loop
+- Conditionals
+- Random numbers
+- F-strings
+
+TOOL 3: TO-DO LIST
+Description:
+A program that allows users to add, view and remove tasks using a list.
+
+Concepts:
+- Lists
+- Append and remove methods
+- Loops
+- Conditionals
+- F-strings
+
+EXACT MENU TEXT:
+
+Welcome to My Personal Mini-Toolkit!
+
+Please choose a tool:
+
+1. Simple Calculator
+2. Number Guessing Game
+3. To-Do List
+4. Quit
+
+Enter your choice (1-4):
+
+PROGRAM FLOW:
+1. Display a welcome message.
+2. Display the main menu.
+3. Ask the user to select a tool.
+4. Run the selected tool.
+5. Return to the main menu after the tool finishes.
+6. Display a polite message for invalid choices.
+7. Continue until the user chooses Quit.
+8. Display a friendly goodbye message.
+
+EXPECTED OUTCOME:
+A working, user-friendly Python toolkit demonstrating variables, input/output, conditionals, loops and lists.
